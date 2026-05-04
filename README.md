@@ -5,5 +5,5 @@
 
 ### 🔧 Skills 
 
-**Languages:** Python, Java, Rust  
+**Languages:** Python, Java
 
