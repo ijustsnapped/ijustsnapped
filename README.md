@@ -1,10 +1,11 @@
-# Hi, I'm Daniel 👋
+## Hi, I'm Daniel 👋
 
-I'm a master's student in Bioinformatics at the University of Lisbon.
+* I'm a master's student in Bioinformatics and Computational Biology at the University of Lisbon.
+* Interested in applying deep learning to biology.
 
 ---
 
-## 🧰 Skills & Tools
+### 🔧 Skills 
 
 **Languages:** Python, Java, Rust  
 
